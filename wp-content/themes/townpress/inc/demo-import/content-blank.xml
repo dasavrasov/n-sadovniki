@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>TownPress Demo</title>
+	<link>http://localhost/wordpress/townpress-demo</link>
+	<description>Municipal WordPress Theme</description>
+	<pubDate>Mon, 10 Dec 2018 15:39:48 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>http://localhost/wordpress/</wp:base_site_url>
+	<wp:base_blog_url>http://localhost/wordpress/townpress-demo</wp:base_blog_url>
+</channel>
+</rss>
