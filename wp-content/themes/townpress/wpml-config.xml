@@ -1,0 +1,38 @@
+<wpml-config>
+    <admin-texts>
+		<key name="theme_mods_townpress">
+			<key name="header_map_toggle_label"/>
+			<key name="header_login_label"/>
+			<key name="search_input_placeholder"/>
+			<key name="footer_text"/>
+			<key name="lsvr_notice_archive_title"/>
+			<key name="lsvr_listing_archive_title"/>
+			<key name="lsvr_event_archive_title"/>
+			<key name="lsvr_gallery_archive_title"/>
+			<key name="lsvr_document_archive_title"/>
+			<key name="lsvr_person_archive_title"/>
+		</key>
+    </admin-texts>
+	<custom-types>
+		<custom-type translate="1">lsvr_notice</custom-type>
+		<custom-type translate="1">lsvr_listing</custom-type>
+		<custom-type translate="1">lsvr_event</custom-type>
+		<custom-type translate="1">lsvr_gallery</custom-type>
+		<custom-type translate="1">lsvr_document</custom-type>
+		<custom-type translate="1">lsvr_person</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">lsvr_notice_cat</taxonomy>
+		<taxonomy translate="1">lsvr_notice_tag</taxonomy>
+		<taxonomy translate="1">lsvr_listing_cat</taxonomy>
+		<taxonomy translate="1">lsvr_listing_tag</taxonomy>
+		<taxonomy translate="1">lsvr_event_cat</taxonomy>
+		<taxonomy translate="1">lsvr_event_tag</taxonomy>
+		<taxonomy translate="1">lsvr_event_location</taxonomy>
+		<taxonomy translate="1">lsvr_gallery_cat</taxonomy>
+		<taxonomy translate="1">lsvr_gallery_tag</taxonomy>
+		<taxonomy translate="1">lsvr_document_cat</taxonomy>
+		<taxonomy translate="1">lsvr_document_tag</taxonomy>
+		<taxonomy translate="1">lsvr_person_cat</taxonomy>
+	</taxonomies>
+</wpml-config>
