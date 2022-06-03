@@ -1,0 +1,252 @@
+blockquote {padding-left: 0;padding-right: 20px;}
+ul {padding-left: 0;padding-right: 20px;}
+ol {padding-left: 0;padding-right: 20px;}
+ul ul, ol ol, ul ol, ol ul {margin-left: 0;margin-right: 30px;}
+table th {text-align: right;}
+.gallery-item {float: right;}
+.gallery-columns-1 .gallery-item {float: none;}
+.gallery-columns-2 .gallery-item:nth-child(2n+1), .gallery-columns-3 .gallery-item:nth-child(3n+1), .gallery-columns-4 .gallery-item:nth-child(4n+1), .gallery-columns-5 .gallery-item:nth-child(5n+1), .gallery-columns-6 .gallery-item:nth-child(6n+1), .gallery-columns-7 .gallery-item:nth-child(7n+1), .gallery-columns-8 .gallery-item:nth-child(8n+1), .gallery-columns-9 .gallery-item:nth-child(9n+1) {clear: right;}
+.c-alert-message {padding-left: 20px;padding-right: 50px;}
+.c-alert-message:before {left: auto;right: 20px;}
+.c-button--has-icon {padding-left: 20px;padding-right: 42px;}
+.c-button__icon {left: auto;right: 20px;}
+.c-search-form__input {padding-left: 60px;padding-right: 15px;}
+.c-search-form__button {left: 0;right: auto;}
+.header-menu__item-link-icon {margin-right: 0;margin-left: 5px;}
+.header-menu__item--dropdown .header-menu__item--level-1.menu-item-has-children {padding-right: 0;padding-left: 10px;}
+.header-menu__item--dropdown .header-menu__item--level-1.menu-item-has-children:after {content: "";right: auto;left: 5px;}
+.header-menu__item--dropdown .header-menu__submenu--level-0, .header-menu__item--dropdown .header-menu__submenu--level-1 {left: auto;right: 0;}
+.header-menu__item--dropdown .header-menu__submenu--level-1 {left: auto;right: 100%;}
+.header-menu__item--dropdown .header-menu__item--level-2 .header-menu__submenu {padding-left: 10px;padding-right: 30px;}
+.header-menu__item--megamenu .header-menu__submenu--level-0 {left: auto;right: 50%;margin-left: 0;margin-right: -700px;}
+.header-menu__item--megamenu .header-menu__item--level-1 {float: right;}
+.header-menu__item--megamenu .header-menu__item--level-1:nth-child(4n+1) {clear: right;}
+.header-menu__item--megamenu .header-menu__item--level-2 .header-menu__submenu {padding-left: 0;padding-right: 20px;}
+.header-map .c-spinner {left: auto;right: 50%;margin-left: 0;margin-right: -15px;}
+.header-map__close {right: auto;left: 50px;}
+.header-toolbar {right: auto;left: 0;}
+.header-toolbar__item {float: right;margin-left: 0;margin-right: 20px;}
+.header-languages__item {float: right;}
+.header-toolbar-toggle--has-map {padding-right: 0;padding-left: 50px;}
+.header-map-toggle--mobile {right: auto;left: 0;}
+.header-mobile-menu__toggle {right: auto;left: 0;}
+.header-mobile-menu__item-link-icon {margin-right: 0;margin-left: 5px;}
+.header-mobile-menu__item-link--level-0 {padding-left: 25px;padding-right: 0;}
+.header-mobile-menu__item-link--level-1 {padding-left: 25px;padding-right: 0;}
+.header-mobile-menu__submenu--level-1, .header-mobile-menu__submenu--level-1 .header-mobile-menu__submenu {padding-left: 0;padding-right: 20px;}
+.header-mobile-menu__item-link--level-2, .header-mobile-menu__submenu--level-1 .header-mobile-menu__item-link {padding-left: 25px;padding-right: 0;}
+@media ( min-width: 992px ) {.rtl .lsvr-grid__col.columns__main, .rtl .lsvr-grid__col.columns__sidebar--left, .rtl .lsvr-grid__col.columns__sidebar--right {float: left;}
+	.rtl .lsvr-grid__col--push-3.columns__main {left: 24.999%;right: auto;}
+	.rtl .lsvr-grid__col--pull-6.columns__sidebar--left {left: -49.998%;right: auto;}
+	.rtl .lsvr-grid__col--pull-9.columns__sidebar--left {left: -74.997%;right: auto;}}
+.breadcrumbs:before {left: auto;right: 0;}
+.breadcrumbs-item {margin-left: 0;margin-right: 5px;}
+.breadcrumbs-item:first-child {margin-right: 0;}
+.breadcrumbs-item:before {margin-right: 0;margin-left: 7px;}
+.post-archive-categories__item {margin-right: 0;margin-left: 7px;}
+.post__info-item {padding-left: 0;padding-right: 20px;}
+.post__info-item-icon {left: auto;right: 0;}
+.post__meta-item {padding-left: 0;padding-right: 20px;}
+.post__meta-item-icon {left: auto;right: 0;}
+.post-navigation__prev {float: right;}
+.post-navigation__next {left: auto;right: -1px;float: left;text-align: left;}
+.post-navigation__next:first-child {float: none;text-align: right;}
+.post-comments__list ul ul {margin-left: 0;margin-right: 75px;}
+.post-comments__list .comment-author .fn a {margin-left: 25px;margin-right: 0;}
+.post-comments__list--avatars .comment-body {padding-right: 75px;padding-left: 0;}
+.post-comments__list--avatars .avatar {left: auto;right: 0;}
+.comment-form-cookies-consent input {float: right;margin-right: 0;margin-left: 10px;}
+.comment-form-cookies-consent label {float: right;}
+.post-pagination__prev {margin-left: 20px;margin-right: 0;}
+.post-pagination__next {margin-right: 20px;margin-left: 0;}
+.navigation.pagination .prev {margin-left: 20px;margin-right: 0;}
+.navigation.pagination .next {margin-right: 20px;margin-left: 0;}
+.lsvr_listing-map__spinner {right: 50%;left: auto;margin-right: -15px;margin-left: 0;}
+.lsvr_listing-map__marker-inner:before {right: 50%;left: auto;margin-right: -6px;margin-left: 0;}
+.lsvr_listing-map__marker-inner:after {right: 50%;left: auto;margin-right: -5px;margin-left: 0;}
+.lsvr_listing-map__infobox--has-thumb {padding-right: 100px;padding-left: 0;}
+.lsvr_listing-map__infobox-thumb {right: 0;left: auto;}
+.lsvr_listing-map__infobox-address, .lsvr_listing-map__infobox-category {padding-right: 20px;padding-left: 0;}
+.lsvr_listing-map__infobox-address:before, .lsvr_listing-map__infobox-category:before {right: 0;left: auto;}
+.lsvr_listing-post-single .post__contact-item {padding-right: 30px;padding-left: 0;}
+.lsvr_listing-post-single .post__contact-item:before {right: 0;left: auto;}
+.lsvr_listing-post-single .post__contact-item--fax, .lsvr_listing-post-single .post__contact-item--phone {direction: ltr;}
+.lsvr_listing-post-single .post__social-links-item {margin-right: 4px;margin-left: 0;}
+.lsvr_listing-post-single .post__gallery-item {float: right;}
+.lsvr_listing-post-single .post__gallery-item:nth-child( 5n + 1 ) {clear: right;}
+.lsvr_event-post-single .post__info-item {float: right;padding-right: 35px;padding-left: 10px;}
+.lsvr_event-post-single .post__info-item:last-child {padding-right: 35px;}
+.lsvr_event-post-single .post__info-item-icon {right: 0;left: auto;}
+.lsvr_gallery-post-archive--photogrid .post__overlay-link {right: 0;left: auto;}
+.lsvr_document-post-page .post__attachment-item {padding-right: 20px;padding-left: 0;}
+.lsvr_document-post-page .post__attachment-icon {right: 0;left: auto;}
+.lsvr_document-post-page .post__attachment-link {padding-left: 5px;padding-right: 0;}
+.lsvr_document-post-archive--categorized-attachments .post-tree__item-link-holder {padding-right: 30px;padding-left: 0;}
+.lsvr_document-post-archive--categorized-attachments .post-tree__item-link-holder--folder {padding-left: 30px;padding-right: 30px;}
+.lsvr_document-post-archive--categorized-attachments .post-tree__item-link-holder--folder:before {right: 0;left: auto;}
+.lsvr_document-post-archive--categorized-attachments .post-tree__item-toggle {left: 0;right: auto;}
+.lsvr_document-post-archive--categorized-attachments .post-tree__item-icon {right: 2px;left: auto;}
+.lsvr_document-post-archive--categorized-attachments .post-tree__item-icon--folder {right: 0;left: auto;}
+.lsvr_document-post-archive--categorized-attachments .post-tree__item-link--file {padding-left: 10px;padding-right: 0;}
+.lsvr_document-post-archive--categorized-attachments .post-tree__children--level-2 {margin-right: 20px;margin-left: 0;}
+.lsvr_document-post-archive--categorized-attachments .post-tree__children--level-1 .post-tree__children {margin-right: 20px;margin-left: 0;}
+.lsvr_person-post-page .post__contact-item {padding-right: 30px;padding-left: 0;}
+.lsvr_person-post-page .post__contact-item:before {right: 0;left: auto;}
+.lsvr_person-post-page .post__contact-item--phone {direction: ltr;}
+.lsvr_person-post-page .post__social-icon {right: 0;left: auto;}
+.lsvr_person-post-archive .has-post-thumbnail .post__inner {padding-right: 160px;padding-left: 0;}
+.lsvr_person-post-archive .post__thumbnail {right: 0;left: auto;}
+.lsvr_person-post-single .post__thumbnail {float: right;padding-left: 30px;padding-right: 0;}
+.lsvr_person-post-single .post__card-info {float: right;}
+.search-results-page__item-title {float: right;}
+.search-results-page__item-type {text-align: left;float: left;}
+.widget__title--has-icon {padding-right: 50px;padding-left: 20px;}
+.widget__title-icon {right: 20px;left: auto;}
+.lsvr-townpress-menu-widget__toggle {left: 0;right: auto;}
+.lsvr-townpress-menu-widget__item-link-icon {margin-right: 0;margin-left: 5px;}
+.menu-item-has-children > .lsvr-townpress-menu-widget__item-link--level-0 {padding-left: 20px;padding-right: 0;}
+.lsvr-townpress-menu-widget__item--level-0.menu-item-has-children:after {content: "";left: 5px;right: auto;}
+@media ( min-width: 992px ) {.lsvr-townpress-menu-widget__item--level-1.menu-item-has-children:after {content: "";left: 5px;right: auto;}}
+.lsvr-townpress-weather-widget__time-title {float: right;}
+.lsvr-townpress-weather-widget__time-value {float: left;text-align: left;}
+.lsvr-townpress-weather-widget__weather-item-labels {float: right;}
+.lsvr-townpress-weather-widget__weather-item-values {float: left;text-align: left;}
+.lsvr-townpress-weather-widget__weather-item-icon {left: 60px;right: auto;}
+.lsvr-definition-list-widget__item-title {float: right;padding-right: 0;padding-left: 10px;}
+.lsvr-definition-list-widget__item-text {float: left;padding-left: 0;padding-right: 10px;text-align: left;}
+.lsvr-post-list-widget__item--has-thumb .lsvr-post-list-widget__item-inner {padding-left: 0;padding-right: 80px;}
+.lsvr-post-list-widget__item-thumb {left: auto;right: 0;}
+.lsvr_notice-categories-widget ul ul, .lsvr_listing-categories-widget ul ul, .lsvr_event-categories-widget ul ul, .lsvr_event-locations-widget ul ul, .lsvr_gallery-categories-widget ul ul, .lsvr_document-categories-widget ul ul, .lsvr_person-categories-widget ul ul {margin-right: 30px;margin-left: 0;}
+.lsvr_listing-list-widget__item--has-thumb {padding-right: 95px;padding-left: 0;}
+.lsvr_listing-list-widget__item-thumb {right: 0;left: auto;}
+.lsvr_event-list-widget__item--has-thumb {padding-right: 95px;padding-left: 0;}
+.lsvr_event-list-widget__item-thumb {right: 0;left: auto;}
+.lsvr_event-list-widget__list--has-bold-date .lsvr_event-list-widget__item {padding-right: 60px;padding-left: 0;}
+.lsvr_event-list-widget__item-date--bold {right: 0;left: auto;}
+.lsvr_event-calendar-widget__weekday {float: right;text-align: left;}
+.lsvr_event-calendar-widget__nav-btn--prev {left: auto;right: 0;}
+.lsvr_event-calendar-widget__nav-btn--prev:active {left: auto;right: -2px;}
+.lsvr_event-calendar-widget__nav-btn--prev > .lsvr_event-calendar-widget__nav-btn-icon:before {content: "";}
+.lsvr_event-calendar-widget__nav-btn--next {right: auto;left: 0;}
+.lsvr_event-calendar-widget__nav-btn--next:active {right: auto;left: -2px;}
+.lsvr_event-calendar-widget__nav-btn--next > .lsvr_event-calendar-widget__nav-btn-icon:before {content: "";}
+.lsvr_event-calendar-widget__day-list-wrapper .c-spinner {left: auto;right: 50%;margin-left: 0;margin-right: -15px;}
+.lsvr_event-calendar-widget__day {float: right;}
+.lsvr_event-calendar-widget__day:nth-child( 7n+1 ) {clear: right;}
+.lsvr_event-calendar-widget__day-cell {text-align: left;}
+.lsvr_event-calendar-widget__day--has-events > .lsvr_event-calendar-widget__day-cell:after {right: auto;left: 2px;}
+.lsvr_event-filter-widget__option--datepicker:after {left: 10px;right: auto;}
+.lsvr_event-filter-widget__input {padding-left: 30px;padding-right: 15px;}
+.lsvr_gallery-list-widget__item--has-thumb {padding-right: 95px;padding-left: 0;}
+.lsvr_gallery-list-widget__item-thumb {right: 0;left: auto;}
+.lsvr_document-list-widget__item-date {margin-right: 0;margin-left: 10px;}
+.lsvr_document-attachments-widget__item {padding-left: 0;padding-right: 20px;}
+.lsvr_document-attachments-widget__item-icon {right: 0;left: auto;}
+.lsvr_document-featured-widget__attachment {padding-right: 20px;padding-left: 0;}
+.lsvr_document-featured-widget__attachment-icon {right: 0;left: auto;}
+.lsvr_document-featured-widget__attachment-link {padding-left: 5px;padding-right: 0;}
+.lsvr_person-list-widget__item--has-thumb {padding-right: 105px;padding-left: 0;}
+.lsvr_person-list-widget__item-thumb {right: 0;left: auto;}
+.lsvr_person-list-widget__item-social-link {margin-left: 2px;margin-right: 0;}
+.lsvr_person-list-widget__item-social-icon {right: 0;left: auto;}
+.lsvr_person-featured-widget__social-icon {right: 0;left: auto;}
+.widget_display_stats dl > dt {clear: right;float: right;}
+.widget_display_stats dl > dd {float: left;text-align: left;}
+.widget_calendar #prev {text-align: right;}
+.widget_calendar #next {text-align: left;}
+.widget_categories ul ul {margin-right: 30px;margin-left: 0;}
+.widget_nav_menu ul ul {margin-right: 30px;margin-left: 0;}
+.widget_pages ul ul {margin-right: 30px;margin-left: 0;}
+.footer-widgets .widget__title--has-icon {padding-right: 30px;padding-left: 0;}
+.footer-widgets .widget__title-icon {right: -1px;left: 0;}
+.footer-menu {float: left;text-align: left;}
+.footer-text {float: right;}
+.back-to-top {left: 0;right: auto;}
+.back-to-top__link:before {right: 0;left: auto;}
+.lsvr-townpress-posts__icon {left: auto;right: 0;}
+.lsvr-townpress-posts__title--has-icon {padding-left: 0;padding-right: 45px;}
+.lsvr-townpress-posts__title-icon {left: auto;right: 0;}
+.lsvr-townpress-posts__item--featured .lsvr-townpress-posts__post-meta {padding-left: 0;padding-right: 20px;}
+.lsvr-townpress-posts__item--featured .lsvr-townpress-posts__post-meta:before {left: auto;right: 0;}
+.lsvr-townpress-posts__item--short .lsvr-townpress-posts__post {padding-right: 0;padding-left: 100px;}
+.lsvr-townpress-posts__item--short .lsvr-townpress-posts__post-meta {right: auto;left: 0;}
+.lsvr-townpress-post-slider__post-header {text-align: right;}
+.lsvr-townpress-post-slider__post-content {text-align: right;}
+.lsvr-townpress-post-slider__post-overlay-link {left: auto;right: 0;}
+.lsvr-townpress-post-slider .owl-nav {right: auto;left: 0;}
+.lsvr-townpress-post-slider .owl-prev, .lsvr-townpress-post-slider .owl-next {float: right;}
+.lsvr-townpress-post-slider .owl-prev i, .lsvr-townpress-post-slider .owl-next i {left: auto;right: 0;}
+.lsvr-townpress-post-slider .owl-prev:active i {left: auto;right: -2px;}
+.lsvr-townpress-post-slider .owl-next:active i {left: auto;right: 2px;}
+.lsvr-townpress-post-slider__indicator-icon--right:before {content: "";}
+.lsvr-townpress-post-slider__indicator-icon--left:before {content: "";}
+.lsvr-townpress-sidebar__list > .widget {float: right;}
+.lsvr-townpress-sidebar__list--1-cols > .widget {float: none;}
+.lsvr-townpress-sidebar__list--2-cols > .widget:nth-child( 2n+1 ), .lsvr-townpress-sidebar__list--3-cols > .widget:nth-child( 3n+1 ), .lsvr-townpress-sidebar__list--4-cols > .widget:nth-child( 4n+1 ) {clear: right;}
+.lsvr-townpress-sitemap__icon {left: auto;right: 0;}
+.lsvr-townpress-sitemap__title--has-icon {padding-left: 0;padding-right: 45px;}
+.lsvr-townpress-sitemap__title-icon {left: auto;right: 0;}
+.lsvr-townpress-sitemap__item--level-0 {float: right;}
+.lsvr-townpress-sitemap__nav--1-cols .lsvr-townpress-sitemap__item--level-0 {float: none;}
+.lsvr-townpress-sitemap__nav--2-cols .lsvr-townpress-sitemap__item--level-0:nth-child( 2n+1 ), .lsvr-townpress-sitemap__nav--3-cols .lsvr-townpress-sitemap__item--level-0:nth-child( 3n+1 ), .lsvr-townpress-sitemap__nav--4-cols .lsvr-townpress-sitemap__item--level-0:nth-child( 4n+1 ) {clear: right;}
+.lsvr-townpress-sitemap__item--level-1 .lsvr-townpress-sitemap__submenu {margin-left: 0;margin-right: 20px;}
+.lsvr-alert-message {padding-left: 20px;padding-right: 50px;}
+.lsvr-alert-message:before {left: auto;right: 20px;}
+.lsvr-cta--has-button .lsvr-cta__inner {padding-right: 0;padding-left: 200px;}
+.lsvr-cta__button {right: auto;left: 0;}
+.lsvr-feature--has-icon .lsvr-feature__inner {padding-left: 0;padding-right: 60px;}
+.lsvr-feature__icon {left: auto;right: 0;}
+.lsvr-progress-bar__bar-label {right: auto;left: 10px;}
+div.bbp-template-notice {padding-right: 50px;padding-left: 20px;}
+div.bbp-template-notice:before {right: 20px;left: auto;}
+#bbpress-forums #subscription-toggle {text-align: left;}
+#bbpress-forums div.bbp-forum-content, #bbpress-forums div.bbp-topic-content, #bbpress-forums div.bbp-reply-content {margin-right: 120px;margin-left: 0;}
+#bbpress-forums .bbp-topic-freshness, #bbpress-forums .bbp-forum-freshness {text-align: left;}
+#bbpress-forums div.bbp-topic-author {text-align: right;}
+#bbpress-forums div.bbp-reply-author {text-align: right;}
+#bbpress-forums fieldset.bbp-form input[type=checkbox] {margin-left: 2px;margin-right: 0;}
+#bbpress-forums #bbp-your-profile fieldset label[for] {text-align: right;}
+#bbpress-forums .bbp-forum-status-closed .bbp-forum-title:before {margin-left: 3px;margin-right: 0;}
+.wpcf7 form .wpcf7-response-output {padding-left: 20px;padding-right: 50px;}
+.wpcf7 form .wpcf7-response-output:before {left: auto;right: 20px;}
+.lsvr-datepicker .ui-datepicker-prev, .lsvr-datepicker .ui-datepicker-next {right: 20px;left: auto;}
+.lsvr-datepicker .ui-datepicker-next {right: auto;left: 20px;}
+.lsvr-datepicker .ui-datepicker-prev:before, .lsvr-datepicker .ui-datepicker-next:before {right: 0;left: auto;}
+.lsvr-datepicker .ui-datepicker-prev:before {content: "";}
+.lsvr-datepicker .ui-datepicker-next:before {content: "";}
+.elementor-column-gap-default > .elementor-row > .elementor-column:first-child > .elementor-element-populated {padding-left: 10px;padding-right: 0;}
+.elementor-column-gap-default > .elementor-row > .elementor-column:last-child > .elementor-element-populated {padding-right: 10px;padding-left: 0;}
+.mfp-arrow-left:before {content: "";}
+.mfp-arrow-right:before {content: "";}
+.mfp-arrow-left {right: 10px;left: auto;}
+.mfp-arrow-left:active {right: 5px;left: auto;}
+.mfp-arrow-right {left: 10px;right: auto;}
+.mfp-arrow-right:active {left: 5px;right: auto;}
+@media ( max-width: 1400px ) {.header-menu__item--megamenu .header-menu__submenu--level-0 {right: 0;margin-right: 0;}}
+@media ( max-width: 1199px ) {.lsvr-townpress-sidebar__list--3-cols > .widget:nth-child( 3n+1 ), .lsvr-townpress-sidebar__list--4-cols > .widget:nth-child( 4n+1 ) {clear: none;}
+	.lsvr-townpress-sidebar__list--3-cols > .widget:nth-child( 2n+1 ), .lsvr-townpress-sidebar__list--4-cols > .widget:nth-child( 2n+1 ) {clear: right;}
+	.lsvr-townpress-sitemap__nav--3-cols .lsvr-townpress-sitemap__item--level-0:nth-child( 3n+1 ), .lsvr-townpress-sitemap__nav--4-cols .lsvr-townpress-sitemap__item--level-0:nth-child( 4n+1 ) {clear: none;}
+	.lsvr-townpress-sitemap__nav--3-cols .lsvr-townpress-sitemap__item--level-0:nth-child( 2n+1 ), .lsvr-townpress-sitemap__nav--4-cols .lsvr-townpress-sitemap__item--level-0:nth-child( 2n+1 ) {clear: right;}}
+@media ( max-width: 991px ) {.header-toolbar {left: auto;}
+	.header-toolbar__item {float: none;}
+	.header-languages {right: 0;left: auto;margin-right: 0;}
+	.header-login {left: 0;right: auto;}
+	.lsvr-townpress-menu-widget__submenu--level-1 {padding-left: 0;padding-right: 20px;}
+	.lsvr-townpress-menu-widget__submenu--level-2 {padding-left: 0;padding-right: 30px;}
+	.lsvr-townpress-post-slider__post-header, .lsvr-townpress-post-slider__post-content {float: none;}}
+@media ( max-width: 767px ) {.post-navigation__prev, .post-navigation__next {text-align: right;}
+	.lsvr_person-post-single .post__thumbnail {float: none;margin-left: 0;}
+	.lsvr_person-post-single .post__card-info {float: none;}
+	.footer-menu, .footer-text {float: none;}
+	.back-to-top {left: auto;right: auto;}}
+@media ( max-width: 480px ) {.lsvr-grid {margin-left: -10px;margin-right: -10px;}
+	.lsvr-grid__col {padding-left: 10px;padding-right: 10px;}
+	.lsvr-definition-list-widget__item-title {float: none;padding-left: 0;}
+	.lsvr-definition-list-widget__item-text {float: none;padding: 0;text-align: right;}
+	.lsvr_event-post-single .post__info-item {float: none;}
+	.search-results-page__item-title {float: none;}
+	.search-results-page__item-type {float: none;text-align: right;}
+	.footer-widgets__inner {padding-left: 10px;padding-right: 10px;}
+	.lsvr-townpress-posts__item--short .lsvr-townpress-posts__post {padding-left: 0;}
+	.lsvr-townpress-posts__item--short .lsvr-townpress-posts__post-meta {left: auto;}
+	body .vc_row {margin-left: -10px;margin-right: -10px;}}
