@@ -1,0 +1,102 @@
+body .editor-styles-wrapper blockquote {padding-left: 0;padding-right: 20px;}
+body .editor-styles-wrapper ul {padding-left: 0;padding-right: 20px;}
+body .editor-styles-wrapper ol {padding-left: 0;padding-right: 20px;}
+body .editor-styles-wrapper ul ul, body .editor-styles-wrapper ol ol, body .editor-styles-wrapper ul ol, body .editor-styles-wrapper ol ul {margin-left: 0;margin-right: 30px;}
+body .editor-styles-wrapper table th {text-align: right;}
+body .editor-styles-wrapper .gallery-item {float: right;}
+body .editor-styles-wrapper .gallery-columns-1 .gallery-item {float: none;}
+body .editor-styles-wrapper .gallery-columns-2 .gallery-item:nth-child(2n+1), body .editor-styles-wrapper .gallery-columns-3 .gallery-item:nth-child(3n+1), body .editor-styles-wrapper .gallery-columns-4 .gallery-item:nth-child(4n+1), body .editor-styles-wrapper .gallery-columns-5 .gallery-item:nth-child(5n+1), body .editor-styles-wrapper .gallery-columns-6 .gallery-item:nth-child(6n+1), body .editor-styles-wrapper .gallery-columns-7 .gallery-item:nth-child(7n+1), body .editor-styles-wrapper .gallery-columns-8 .gallery-item:nth-child(8n+1), body .editor-styles-wrapper .gallery-columns-9 .gallery-item:nth-child(9n+1) {clear: right;}
+body .editor-styles-wrapper .c-alert-message {padding-left: 20px;padding-right: 50px;}
+body .editor-styles-wrapper .c-alert-message:before {left: auto;right: 20px;}
+body .editor-styles-wrapper .c-button--has-icon {padding-left: 20px;padding-right: 42px;}
+body .editor-styles-wrapper .c-button__icon {left: auto;right: 20px;}
+body .editor-styles-wrapper .widget__title--has-icon {padding-right: 50px;padding-left: 20px;}
+body .editor-styles-wrapper .widget__title-icon {right: 20px;left: auto;}
+body .editor-styles-wrapper .lsvr-townpress-menu-widget__toggle {left: 0;right: auto;}
+body .editor-styles-wrapper .menu-item-has-children>.lsvr-townpress-menu-widget__item-link--level-0 {padding-left: 20px;padding-right: 0;}
+body .editor-styles-wrapper .lsvr-townpress-menu-widget__item--level-0.menu-item-has-children:after {content: "";left: 5px;right: auto;}
+@media (min-width: 992px) {body .editor-styles-wrapper .lsvr-townpress-menu-widget__item--level-1.menu-item-has-children:after {content: "";left: 5px;right: auto;}}
+body .editor-styles-wrapper .lsvr-townpress-weather-widget__time-title {float: right;}
+body .editor-styles-wrapper .lsvr-townpress-weather-widget__time-value {float: left;text-align: left;}
+body .editor-styles-wrapper .lsvr-townpress-weather-widget__weather-item-labels {float: right;}
+body .editor-styles-wrapper .lsvr-townpress-weather-widget__weather-item-values {float: left;text-align: left;}
+body .editor-styles-wrapper .lsvr-townpress-weather-widget__weather-item-icon {left: 60px;right: auto;}
+body .editor-styles-wrapper .lsvr-definition-list-widget__item-title {float: right;padding-right: 0;padding-left: 10px;}
+body .editor-styles-wrapper .lsvr-definition-list-widget__item-text {float: left;padding-left: 0;padding-right: 10px;text-align: left;}
+body .editor-styles-wrapper .lsvr-post-list-widget__item--has-thumb .lsvr-post-list-widget__item-inner {padding-left: 0;padding-right: 80px;}
+body .editor-styles-wrapper .lsvr-post-list-widget__item-thumb {left: auto;right: 0;}
+body .editor-styles-wrapper .lsvr_notice-categories-widget ul ul, body .editor-styles-wrapper .lsvr_listing-categories-widget ul ul, body .editor-styles-wrapper .lsvr_event-categories-widget ul ul, body .editor-styles-wrapper .lsvr_event-locations-widget ul ul, body .editor-styles-wrapper .lsvr_gallery-categories-widget ul ul, body .editor-styles-wrapper .lsvr_document-categories-widget ul ul, body .editor-styles-wrapper .lsvr_person-categories-widget ul ul {margin-right: 30px;margin-left: 0;}
+body .editor-styles-wrapper .lsvr_listing-list-widget__item--has-thumb {padding-right: 95px;padding-left: 0;}
+body .editor-styles-wrapper .lsvr_listing-list-widget__item-thumb {right: 0;left: auto;}
+body .editor-styles-wrapper .lsvr_event-list-widget__item--has-thumb {padding-right: 95px;padding-left: 0;}
+body .editor-styles-wrapper .lsvr_event-list-widget__item-thumb {right: 0;left: auto;}
+body .editor-styles-wrapper .lsvr_event-list-widget__list--has-bold-date .lsvr_event-list-widget__item {padding-right: 60px;padding-left: 0;}
+body .editor-styles-wrapper .lsvr_event-list-widget__item-date--bold {right: 0;left: auto;}
+body .editor-styles-wrapper .lsvr_event-calendar-widget__weekday {float: right;text-align: left;}
+body .editor-styles-wrapper .lsvr_event-calendar-widget__nav-btn--prev {left: auto;right: 0;}
+body .editor-styles-wrapper .lsvr_event-calendar-widget__nav-btn--prev:active {left: auto;right: -2px;}
+body .editor-styles-wrapper .lsvr_event-calendar-widget__nav-btn--prev>.lsvr_event-calendar-widget__nav-btn-icon:before {content: "";}
+body .editor-styles-wrapper .lsvr_event-calendar-widget__nav-btn--next {right: auto;left: 0;}
+body .editor-styles-wrapper .lsvr_event-calendar-widget__nav-btn--next:active {right: auto;left: -2px;}
+body .editor-styles-wrapper .lsvr_event-calendar-widget__nav-btn--next>.lsvr_event-calendar-widget__nav-btn-icon:before {content: "";}
+body .editor-styles-wrapper .lsvr_event-calendar-widget__day-list-wrapper .c-spinner {left: auto;right: 50%;margin-left: 0;margin-right: -15px;}
+body .editor-styles-wrapper .lsvr_event-calendar-widget__day {float: right;}
+body .editor-styles-wrapper .lsvr_event-calendar-widget__day:nth-child(7n+1) {clear: right;}
+body .editor-styles-wrapper .lsvr_event-calendar-widget__day-cell {text-align: left;}
+body .editor-styles-wrapper .lsvr_event-calendar-widget__day--has-events>.lsvr_event-calendar-widget__day-cell:after {right: auto;left: 2px;}
+body .editor-styles-wrapper .lsvr_event-filter-widget__option--datepicker:after {left: 10px;right: auto;}
+body .editor-styles-wrapper .lsvr_event-filter-widget__input {padding-left: 30px;padding-right: 15px;}
+body .editor-styles-wrapper .lsvr_gallery-list-widget__item--has-thumb {padding-right: 95px;padding-left: 0;}
+body .editor-styles-wrapper .lsvr_gallery-list-widget__item-thumb {right: 0;left: auto;}
+body .editor-styles-wrapper .lsvr_document-list-widget__item-date {margin-right: 0;margin-left: 10px;}
+body .editor-styles-wrapper .lsvr_document-attachments-widget__item {padding-left: 0;padding-right: 20px;}
+body .editor-styles-wrapper .lsvr_document-attachments-widget__item-icon {right: 0;left: auto;}
+body .editor-styles-wrapper .lsvr_document-featured-widget__attachment {padding-right: 20px;padding-left: 0;}
+body .editor-styles-wrapper .lsvr_document-featured-widget__attachment-icon {right: 0;left: auto;}
+body .editor-styles-wrapper .lsvr_document-featured-widget__attachment-link {padding-left: 5px;padding-right: 0;}
+body .editor-styles-wrapper .lsvr_person-list-widget__item--has-thumb {padding-right: 105px;padding-left: 0;}
+body .editor-styles-wrapper .lsvr_person-list-widget__item-thumb {right: 0;left: auto;}
+body .editor-styles-wrapper .lsvr_person-list-widget__item-social-link {margin-left: 2px;margin-right: 0;}
+body .editor-styles-wrapper .lsvr_person-list-widget__item-social-icon {right: 0;left: auto;}
+body .editor-styles-wrapper .lsvr_person-featured-widget__social-icon {right: 0;left: auto;}
+body .editor-styles-wrapper .widget_display_stats dl>dt {clear: right;float: right;}
+body .editor-styles-wrapper .widget_display_stats dl>dd {float: left;text-align: left;}
+body .editor-styles-wrapper .widget_calendar #prev {text-align: right;}
+body .editor-styles-wrapper .widget_calendar #next {text-align: left;}
+body .editor-styles-wrapper .widget_categories ul ul {margin-right: 30px;margin-left: 0;}
+body .editor-styles-wrapper .widget_nav_menu ul ul {margin-right: 30px;margin-left: 0;}
+body .editor-styles-wrapper .widget_pages ul ul {margin-right: 30px;margin-left: 0;}
+body .editor-styles-wrapper .lsvr-townpress-posts__icon {left: auto;right: 0;}
+body .editor-styles-wrapper .lsvr-townpress-posts__title--has-icon {padding-left: 0;padding-right: 45px;}
+body .editor-styles-wrapper .lsvr-townpress-posts__title-icon {left: auto;right: 0;}
+body .editor-styles-wrapper .lsvr-townpress-posts__item--featured .lsvr-townpress-posts__post-meta {padding-left: 0;padding-right: 20px;}
+body .editor-styles-wrapper .lsvr-townpress-posts__item--featured .lsvr-townpress-posts__post-meta:before {left: auto;right: 0;}
+body .editor-styles-wrapper .lsvr-townpress-posts__item--short .lsvr-townpress-posts__post {padding-right: 0;padding-left: 100px;}
+body .editor-styles-wrapper .lsvr-townpress-posts__item--short .lsvr-townpress-posts__post-meta {right: auto;left: 0;}
+body .editor-styles-wrapper .lsvr-townpress-post-slider__post-header {text-align: right;}
+body .editor-styles-wrapper .lsvr-townpress-post-slider__post-content {text-align: right;}
+body .editor-styles-wrapper .lsvr-townpress-post-slider__post-overlay-link {left: auto;right: 0;}
+body .editor-styles-wrapper .lsvr-townpress-post-slider .owl-nav {right: auto;left: 0;}
+body .editor-styles-wrapper .lsvr-townpress-post-slider .owl-prev, body .editor-styles-wrapper .lsvr-townpress-post-slider .owl-next {float: right;}
+body .editor-styles-wrapper .lsvr-townpress-post-slider .owl-prev i, body .editor-styles-wrapper .lsvr-townpress-post-slider .owl-next i {left: auto;right: 0;}
+body .editor-styles-wrapper .lsvr-townpress-post-slider .owl-prev:active i {left: auto;right: -2px;}
+body .editor-styles-wrapper .lsvr-townpress-post-slider .owl-next:active i {left: auto;right: 2px;}
+body .editor-styles-wrapper .lsvr-townpress-post-slider__indicator-icon--right:before {content: "";}
+body .editor-styles-wrapper .lsvr-townpress-post-slider__indicator-icon--left:before {content: "";}
+body .editor-styles-wrapper .lsvr-townpress-sidebar__list>.widget {float: right;}
+body .editor-styles-wrapper .lsvr-townpress-sidebar__list--1-cols>.widget {float: none;}
+body .editor-styles-wrapper .lsvr-townpress-sidebar__list--2-cols>.widget:nth-child(2n+1), body .editor-styles-wrapper .lsvr-townpress-sidebar__list--3-cols>.widget:nth-child(3n+1), body .editor-styles-wrapper .lsvr-townpress-sidebar__list--4-cols>.widget:nth-child(4n+1) {clear: right;}
+body .editor-styles-wrapper .lsvr-townpress-sitemap__icon {left: auto;right: 0;}
+body .editor-styles-wrapper .lsvr-townpress-sitemap__title--has-icon {padding-left: 0;padding-right: 45px;}
+body .editor-styles-wrapper .lsvr-townpress-sitemap__title-icon {left: auto;right: 0;}
+body .editor-styles-wrapper .lsvr-townpress-sitemap__item--level-0 {float: right;}
+body .editor-styles-wrapper .lsvr-townpress-sitemap__nav--1-cols .lsvr-townpress-sitemap__item--level-0 {float: none;}
+body .editor-styles-wrapper .lsvr-townpress-sitemap__nav--2-cols .lsvr-townpress-sitemap__item--level-0:nth-child(2n+1), body .editor-styles-wrapper .lsvr-townpress-sitemap__nav--3-cols .lsvr-townpress-sitemap__item--level-0:nth-child(3n+1), body .editor-styles-wrapper .lsvr-townpress-sitemap__nav--4-cols .lsvr-townpress-sitemap__item--level-0:nth-child(4n+1) {clear: right;}
+body .editor-styles-wrapper .lsvr-townpress-sitemap__item--level-1 .lsvr-townpress-sitemap__submenu {margin-left: 0;margin-right: 20px;}
+body .editor-styles-wrapper .lsvr-alert-message {padding-left: 20px;padding-right: 50px;}
+body .editor-styles-wrapper .lsvr-alert-message:before {left: auto;right: 20px;}
+body .editor-styles-wrapper .lsvr-cta--has-button .lsvr-cta__inner {padding-right: 0;padding-left: 200px;}
+body .editor-styles-wrapper .lsvr-cta__button {right: auto;left: 0;}
+body .editor-styles-wrapper .lsvr-feature--has-icon .lsvr-feature__inner {padding-left: 0;padding-right: 60px;}
+body .editor-styles-wrapper .lsvr-feature__icon {left: auto;right: 0;}
+body .editor-styles-wrapper .lsvr-progress-bar__bar-label {right: auto;left: 10px;}
