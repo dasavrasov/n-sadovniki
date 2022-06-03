@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Эта карта сайта была динамически создана 03.06.2022 в 16:08 - оригинальным SEO-плагином для WordPress All in One SEO. -->
+
+<?xml-stylesheet type="text/xsl" href="https://dasavrasov.github.io/n-sadovniki/default.xsl?sitemap=root"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc><![CDATA[https://dasavrasov.github.io/n-sadovniki/addl-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2022-06-02T21:50:47+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://dasavrasov.github.io/n-sadovniki/post-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2022-06-02T21:50:47+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://dasavrasov.github.io/n-sadovniki/page-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2022-06-01T11:25:11+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://dasavrasov.github.io/n-sadovniki/post-archive-sitemap.xml]]></loc>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://dasavrasov.github.io/n-sadovniki/category-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2022-06-02T21:50:47+00:00]]></lastmod>
+	</sitemap>
+</sitemapindex>
